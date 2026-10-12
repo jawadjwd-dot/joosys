@@ -47,6 +47,8 @@ downloadButton.addEventListener("click", () => {
     "TITLE:Solutions de gestion et d'encaissement",
     "TEL;TYPE=WORK,VOICE:+212660602277",
     "EMAIL;TYPE=WORK:joosyscontact@gmail.com",
+    "URL:https://www.instagram.com/joosys.ma/",
+    "X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/joosys.ma/",
     "NOTE:Assistance et solutions JooSys",
     "END:VCARD",
   ].join("\r\n");

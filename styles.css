@@ -462,6 +462,12 @@ h1 span {
   fill: #068fae;
 }
 
+.contact-list .instagram-icon {
+  fill: none;
+  stroke: #068fae;
+  stroke-width: 1.9;
+}
+
 .contact-list span,
 .contact-list small {
   display: block;
@@ -595,6 +601,12 @@ h1 span {
   color: #86e2b7;
   border-color: rgba(40, 199, 133, 0.22);
   background: rgba(40, 199, 133, 0.08);
+}
+
+.contact-action__icon--instagram {
+  color: #fff1fb;
+  border-color: rgba(255, 255, 255, 0.19);
+  background: linear-gradient(135deg, #643bd8, #d72d7f 58%, #f3a33a);
 }
 
 .contact-action svg {
